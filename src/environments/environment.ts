@@ -14,6 +14,18 @@ export const environment = {
   }
 };
 
+/*export const environment = {
+  production: false,
+  firebase: {
+    apiKey: 'AIzaSyAkFfZlTp00Mc-1h68gNRg_4_UpzLvIeBc',
+    authDomain: 'educative-auth-angular.firebaseapp.com',
+    databaseURL: 'educative-auth-angular.firebaseapp.com',
+    projectId: 'educative-auth-angular',
+    storageBucket: 'educative-auth-angular.appspot.com',
+    messagingSenderId: '204047671775'
+  }
+};*/
+
 /*
  * For easier debugging in development mode, you can import the following file
  * to ignore zone related error stack frames such as `zone.run`, `zoneDelegate.invokeTask`.
